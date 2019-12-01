@@ -1,0 +1,16 @@
+[
+{
+  "modid": "leadmod",
+  "name": "Lead Mod",
+  "description": "This mod adds lead and lead items to your world!.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sachko"],
+  "credits": "Sachko for making this mod!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,10 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "leadmod:lead_ore"
+	},
+	"variants": {
+		"normal": [{}],
+		"inventory": [{}]
+	}
+}

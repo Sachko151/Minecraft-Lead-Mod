@@ -1,0 +1,15 @@
+itemGroup.leadmod.tabTutorialMod=Lead Mod
+
+item.leadmod.leadIngot.name=Lead Ingot
+item.leadmod.axeLead.name=Lead Axe
+item.leadmod.pickaxeLead.name=Lead Pickaxe
+item.leadmod.hoeLead.name=Lead Hoe
+item.leadmod.shovelLead.name=Lead Shovel
+item.leadmod.swordLead.name=Lead Sword
+item.leadmod.helmetLead.name=Lead Helmet
+item.leadmod.chestplateLead.name=Lead Chestplate
+item.leadmod.leggingsLead.name=Lead Leggings
+item.leadmod.bootsLead.name=Lead Boots
+
+tile.leadmod.leadOre.name=Lead Ore
+tile.leadmod.leadBlock.name=Lead Block
